@@ -1,0 +1,26 @@
+:root {
+  --ds-background: #F6F8FC;
+  --ds-foreground: #0F1B33;
+
+  --ds-primary: #2563EB;
+  --ds-primary-foreground: #FFFFFF;
+
+  --ds-secondary: #E3E9F5;
+  --ds-secondary-foreground: #0F1B33;
+
+  --ds-destructive: #DC2626;
+  --ds-destructive-foreground: #FFFFFF;
+
+  --ds-muted: #F1F5F9;
+  --ds-muted-foreground: #64748B;
+
+  --ds-accent: #E3E9F5;
+  --ds-accent-foreground: #0F1B33;
+
+  --ds-border: #E3E9F5;
+  --ds-input: #E3E9F5;
+  --ds-ring: #2563EB;
+
+  --ds-radius: 0.75rem;
+  --ds-radius-md: 0.5rem;
+}
